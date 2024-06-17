@@ -1,0 +1,34 @@
+body{
+    color:teal;
+}
+
+
+header.masthead .page-heading, header.masthead .post-heading, header.masthead .site-heading{
+    color:red;
+}
+
+.post-preview a{
+    color:red;
+}
+
+.italicclass{
+font-style:italic;
+}
+
+#mainNav .navbar-brand{
+    color:pink;
+    text-decoration:underline;
+    font-style:italic;
+    font-weight:bold;
+}
+
+
+#mainNav{
+    position:fixed;
+}
+
+.tableauPlaceholder{
+    float:right;
+    width:25%;
+}
+
